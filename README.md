@@ -23,3 +23,8 @@
 * Draconian
 * Iron Mainden
 * Judas Priest
+# Lista de bandas de rock
+
+* Pink Floyd
+* Beatles
+* Elvis Presley
